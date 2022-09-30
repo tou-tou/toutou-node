@@ -37,7 +37,7 @@
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-select": "^4.3.1",
-        "recharts": "^2.1.10",
+        "recharts": "^2.1.14",
         "resolve-url-loader": "^3.1.4",
         "sass": "^1.52.2",
         "url-parse": "^1.5.10"
