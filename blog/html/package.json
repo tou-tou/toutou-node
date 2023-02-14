@@ -22,7 +22,7 @@
     "dependencies": {
         "@babel/core": "^7.18.2",
         "@babel/preset-react": "^7.17.12",
-        "@ckeditor/ckeditor5-build-classic": "^34.1.0",
+        "@ckeditor/ckeditor5-build-classic": "^36.0.1",
         "axios": "^0.21.4",
         "bootstrap": "^4.6.1",
         "core-js": "^3.22.8",
